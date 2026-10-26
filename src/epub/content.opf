@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-seton-merriman/the-vultures</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-26T21:04:21Z</dc:date>
+		<meta property="dcterms:modified">2026-10-26T21:04:21Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -37,16 +37,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008114929</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">When three particular men—known as “vultures”—arrive, it means that an international crisis is coming, and when they come to Warsaw, princes and revolutionaries alike wonder whether the vultures have come to watch for a long-awaited uprising against the Russian Empire or to ignite it.</meta>
+		<meta property="schema:abstract">When three men known as the “vultures” arrive in Warsaw, princes and revolutionaries alike wonder whether they’ve come to watch for the long-awaited uprising against the Russian Empire—or to ignite it.</meta>
 		<dc:description>
-			&lt;p&gt;In &lt;i&gt;The Vultures&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman&lt;/a&gt; plotted a taut, fast-moving story of international intrigue which seems as though it could’ve been written in our era rather than in the Victorian. Reginald Cartoner, a British agent, and his counterpart in the French service, Paul Deulin, have worked with and against one another for many years, building a mutual professional respect and a wary friendship. They and an American, Joseph Mangles, are known by political insiders as “vultures”—men whose sudden arrivals in a seemingly peaceful place presage the end of that calm and the start of a crisis which will command the world’s attention. All three have just arrived in Warsaw, the principal city of what was formerly a free Polish state but which is now brutally controlled by the Russian Empire of Tsar Aleksandr II.&lt;/p&gt;
-			&lt;p&gt;Prince Bukaty, his son Prince Martin, and daughter Princess Wanda, whose power and wealth were stripped by the Russians decades earlier, maintain their connections throughout Europe and secretly lay the groundwork for revolt; in this they are joined by the radical Kosmaroff, whose origins are as mysterious as his methods are ruthless. As the Polish people await the trigger for their revolution, they are uncertain whether the three vultures have been sent to aid, oppose, or simply observe them, or even whether the three are cooperating or at cross-purposes with one another. As personal connections amongst all of the players are strained by conflicting duties and national loyalties, their situation in Poland becomes more perilous by the moment.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Vultures&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman&lt;/a&gt; plots a taut, fast-moving story of international intrigue which seems as though it could’ve been written in the modern era rather than in the Victorian.&lt;/p&gt;
+			&lt;p&gt;Reginald Cartoner, a British agent, and his counterpart in the French service, Paul Deulin, have worked with and against one another for many years, building a mutual professional respect and a wary friendship. They and an American, Joseph Mangles, are known by political insiders as “vultures”—men whose sudden arrival in a seemingly peaceful place presages the end of that calm and the start of a crisis which will command the world’s attention. All three have just arrived in Warsaw, the principal city of what was formerly a free Polish state but which is now brutally controlled by the Russian Empire of Tsar Aleksandr II.&lt;/p&gt;
+			&lt;p&gt;Prince Bukaty, his son Prince Martin, and his daughter Princess Wanda, whose power and wealth were stripped by the Russians decades earlier, maintain their connections throughout Europe and secretly lay the groundwork for revolt; in this they’re joined by the radical Kosmaroff, whose origins are as mysterious as his methods are ruthless. As the Polish people await the trigger for their revolution, they’re uncertain whether the three vultures have been sent to aid, to oppose, or to simply observe them, or even whether the three are cooperating or at cross-purposes with one another. As personal connections amongst all of the players are strained by conflicting duties and national loyalties, their situation in Poland becomes more perilous by the moment.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3805</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009382145</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">92460</meta>
+		<meta property="schema:educationalLevel">73.58</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Vultures" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -78,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<link href="https://www.linkedin.com/in/emma-sweeney-554927190/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
